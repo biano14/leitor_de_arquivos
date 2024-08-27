@@ -1,0 +1,13 @@
+Nome: Gustavo Fabiano
+E-mail: biano@duck.com
+Profissão: Programador
+idade: 27
+
+------------------------------
+
+
+------------------------------
+
+Nome: Marcos
+Email: joaquim2458@gmail.com
+Profissão: Estudante
